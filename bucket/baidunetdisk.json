@@ -1,10 +1,10 @@
 {
-    "version": "7.37.0.5",
+    "version": "7.38.0.9",
     "description": "百度网盘官方客户端",
     "homepage": "https://pan.baidu.com/download",
     "license": "Unknown",
-    "url": "http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_7.37.0.5.exe#dl.7z",
-    "hash": "dd4ccc2534e359c046dc98ecf171af451fdfc5772dd38b1a356e7c85fcd2b94b",
+    "url": "http://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk_7.38.0.9.exe#dl.7z",
+    "hash": "f6dc86c5017c892554a7adc1e4f5540c84556da2b6cd378b5c8bc1d6cc8ed9db",
     "shortcuts": [
         [
             "BaiduNetdisk.exe",
